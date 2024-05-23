@@ -4,7 +4,7 @@
     {
       "type": "wireguard",
       "tag": "Warp-IR",
-      "server": "162.159.195.93",
+      "server": "104.22.14.237",
       "server_port": 2506,
 
       "local_address": [
